@@ -1,2 +1,2 @@
-# AI_project
-AI project
+# AI 분석 프로젝트
+AI를 분석하는 프로젝트 입니다.
